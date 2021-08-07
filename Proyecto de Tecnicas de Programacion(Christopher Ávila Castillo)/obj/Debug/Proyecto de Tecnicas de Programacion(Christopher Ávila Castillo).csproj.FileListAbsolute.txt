@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Proyecto de Tecnicas de Programacion(Christopher Ávila Castillo)\bin\Debug\Proyecto de Tecnicas de Programacion(Christopher Ávila Castillo).exe.config
+C:\Users\PC\source\repos\Proyecto de Tecnicas de Programacion(Christopher Ávila Castillo)\bin\Debug\Proyecto de Tecnicas de Programacion(Christopher Ávila Castillo).exe
+C:\Users\PC\source\repos\Proyecto de Tecnicas de Programacion(Christopher Ávila Castillo)\bin\Debug\Proyecto de Tecnicas de Programacion(Christopher Ávila Castillo).pdb
+C:\Users\PC\source\repos\Proyecto de Tecnicas de Programacion(Christopher Ávila Castillo)\obj\Debug\Proyecto de Tecnicas de Programacion(Christopher Ávila Castillo).csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Proyecto de Tecnicas de Programacion(Christopher Ávila Castillo)\obj\Debug\Proyecto_de_Tecnicas_de_Programacion_Christopher_Ávila_Castillo_.Form1.resources
+C:\Users\PC\source\repos\Proyecto de Tecnicas de Programacion(Christopher Ávila Castillo)\obj\Debug\Proyecto_de_Tecnicas_de_Programacion_Christopher_Ávila_Castillo_.Properties.Resources.resources
+C:\Users\PC\source\repos\Proyecto de Tecnicas de Programacion(Christopher Ávila Castillo)\obj\Debug\Proyecto de Tecnicas de Programacion(Christopher Ávila Castillo).csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Proyecto de Tecnicas de Programacion(Christopher Ávila Castillo)\obj\Debug\Proyecto de Tecnicas de Programacion(Christopher Ávila Castillo).csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Proyecto de Tecnicas de Programacion(Christopher Ávila Castillo)\obj\Debug\Proyecto de Tecnicas de Programacion(Christopher Ávila Castillo).exe
+C:\Users\PC\source\repos\Proyecto de Tecnicas de Programacion(Christopher Ávila Castillo)\obj\Debug\Proyecto de Tecnicas de Programacion(Christopher Ávila Castillo).pdb
